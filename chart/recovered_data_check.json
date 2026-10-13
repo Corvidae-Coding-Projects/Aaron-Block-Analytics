@@ -1,0 +1,21 @@
+{
+  "data_rows": 1678,
+  "model": "Blocked ~ trans_explicit + toxicity_band_fixed_effects + quoted_aaron; subset model only, not the original full regression",
+  "trans_marker_odds_ratio": 2.4651011287474085,
+  "wald_ci95": [
+    1.646176963542386,
+    3.6914157526997142
+  ],
+  "published_full_model": [
+    2.48,
+    1.65,
+    3.73
+  ],
+  "missing_model_inputs": [
+    "exact toxicity scores",
+    "swearing and threat features",
+    "account post counts",
+    "window membership for other three models"
+  ],
+  "cannot_link_to_source_posts": true
+}

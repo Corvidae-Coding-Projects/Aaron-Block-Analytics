@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+analysis/scripts/raw/
+analysis/scripts/deliverables/
+analysis/scripts/app.bsky.*.json
+analysis/scripts/search_*.json
+analysis/scripts/published_sample_rows.json
+analysis/scripts/sample_verification.json
+mapping/account_post_mapping/
+mapping/recovered_post_views.json
+mapping/mapped_evidence.json
+mapping/new_retrieval_log.json

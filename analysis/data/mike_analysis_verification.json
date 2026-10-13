@@ -1,0 +1,108 @@
+{
+  "verification_attribution": "Friendly Society of Corvids",
+  "independent_contributor": {
+    "name": "Michael Paulauski",
+    "handle": "mike10010100.com",
+    "society_member": false,
+    "thread_url": "https://bsky.app/profile/mike10010100.com/post/3mxrorcrzjv23"
+  },
+  "classification_scope": "Audit-defined profile flags, not independently verified personal identities or campaign participation.",
+  "groups": {
+    "explicit_trans_marker": {
+      "blocked": 74,
+      "accounts": 127,
+      "rate": 0.5826771653543307
+    },
+    "other_trans_signal": {
+      "blocked": 76,
+      "accounts": 170,
+      "rate": 0.4470588235294118
+    },
+    "pronouns_only": {
+      "blocked": 184,
+      "accounts": 445,
+      "rate": 0.4134831460674157
+    },
+    "neither_marker_nor_pronouns": {
+      "blocked": 230,
+      "accounts": 936,
+      "rate": 0.24572649572649571
+    }
+  },
+  "pronouns_only_vs_neither": {
+    "crude_odds_ratio": 2.1639846743295017,
+    "fisher_two_sided_p": 4.0357359666408527e-10,
+    "band_adjusted_odds_ratio": 2.1255428638806433,
+    "band_adjusted_wald_ci95": [
+      1.6339054795009946,
+      2.7651125006164574
+    ],
+    "band_adjusted_wald_p": 1.929447085717881e-08,
+    "mike_reported_odds_ratio": 2.11,
+    "mike_reported_p": 1.5e-08,
+    "verification": "Counts and rates reproduced exactly. Our specified models give nearby but non-identical adjusted statistics; his exact model specification was not supplied."
+  },
+  "other_trans_signal_vs_pronouns_only": {
+    "fisher_two_sided_p": 0.4662636511877542,
+    "interpretation": "Similar observed percentages; a non-significant test does not establish equivalence."
+  },
+  "window_composition": {
+    "all_minus_recent_accounts": 466,
+    "all_minus_recent_unblocked": 395,
+    "unblocked_without_explicit_trans_marker": 390,
+    "fraction_without_explicit_marker": 0.9873417721518988,
+    "interpretation": "Account-level subtraction uses the audit-defined nested date cohorts. Per-band subtraction cannot uniquely identify earlier-only accounts because a shared account may change its harshest-post band between windows."
+  },
+  "live_only": {
+    "accounts": 413,
+    "explicit_marker_accounts": 30,
+    "blocked_explicit_marker_accounts": 13,
+    "published_model_odds_ratio": 1.7,
+    "published_model_ci95": [
+      0.76,
+      3.78
+    ],
+    "published_model_p": 0.19635943814086665,
+    "mild_explicit": {
+      "blocked": 1,
+      "accounts": 5
+    },
+    "mild_remaining": {
+      "blocked": 13,
+      "accounts": 42
+    },
+    "very_mild_explicit": {
+      "blocked": 3,
+      "accounts": 11
+    },
+    "very_mild_remaining": {
+      "blocked": 41,
+      "accounts": 224
+    },
+    "verification": "Counts and precomputed model output checked against the preserved source object; the original fuller regression was not refitted.",
+    "correction_source": "https://bsky.app/profile/mike10010100.com/post/3mxru63thls26",
+    "superseded": "Earlier thread figures N=674 and very-mild rates 5.9% vs 6.2% are not used."
+  },
+  "conclusion_scope": "Establishes omitted-context, comparator-composition and score-validation problems. Does not estimate a campaign-adjusted identity effect or prove that every block was justified.",
+  "name_search_check": {
+    "published_no_contact_bulk_total": 178,
+    "third_bulk_only": 91,
+    "source_counts": {
+      "first_bulk": 15,
+      "second_bulk": 72,
+      "third_bulk": 91
+    },
+    "independently_retrieved_role_based_examples": [
+      "at://did:plc:2v5itwuwvpjre2rguoqw6kbf/app.bsky.feed.post/3mvonkimffk2n",
+      "at://did:plc:43vnjgtrf7m65vwkt3ciec2g/app.bsky.feed.post/3mvsbfka2ck2f"
+    ],
+    "verification": "Both posts contain harm-related language directed at the role, contain neither Aaron nor Roderick, and predate the authors' third-bulk blocks. Original membership in the unpublished 178-account no-contact cohort is not independently recoverable."
+  },
+  "claim_limits": [
+    "No original account-ID mapping was recovered for the anonymous chart rows or the 178-account no-contact cohort.",
+    "Mike's reported 2/25 identity-label errors were not independently checked against the original hand-audit records.",
+    "May/September campaign participation and its contribution to the full identity coefficient were not estimated.",
+    "No causal claim of no bias follows from a non-significant live-only model or a similar pair of observed subgroup rates.",
+    "The thread's written addendum swaps the quote/pronoun bit labels; its pronoun-only numerical counts match the preserved decoder with pronouns bit 8 and quotes bit 16."
+  ]
+}

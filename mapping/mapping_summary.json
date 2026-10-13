@@ -1,0 +1,16 @@
+{
+  "recovered_block_window_accounts": 1271,
+  "bulk_import_accounts": 1087,
+  "unique_selected_evidence_posts": 40,
+  "selected_evidence_posts_before_known_block": 20,
+  "selected_evidence_authors_before_known_block": 18,
+  "published_sample_posts_before_block": 10,
+  "published_sample_preblock_authors": 9,
+  "published_sample_preblock_outside_reply_quote": 8,
+  "anonymous_rows": 1678,
+  "anonymous_nonunique_feature_rows": 1668,
+  "anonymous_singleton_combinations": 10,
+  "anonymous_largest_feature_group": 267,
+  "campaign_adjusted_model": "NOT ESTIMATED",
+  "expanded_collection_status": "Expanded scratch collection lost in environment reset; not included or used to report a fitted result."
+}

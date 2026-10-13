@@ -1,0 +1,17 @@
+window,band,trans_marked_blocked,trans_marked_total,other_blocked,other_total,source_url
+all,Very mild,18,47,138,862,https://claude.ai/artifact/Fiy5MLT3eSoNnXZ5Rpfey7
+all,Mild,7,15,52,151,https://claude.ai/artifact/Fiy5MLT3eSoNnXZ5Rpfey7
+all,Moderate,15,21,69,149,https://claude.ai/artifact/Fiy5MLT3eSoNnXZ5Rpfey7
+all,Harsh,34,44,231,389,https://claude.ai/artifact/Fiy5MLT3eSoNnXZ5Rpfey7
+recent,Very mild,16,41,130,548,https://claude.ai/artifact/Fiy5MLT3eSoNnXZ5Rpfey7
+recent,Mild,6,13,46,113,https://claude.ai/artifact/Fiy5MLT3eSoNnXZ5Rpfey7
+recent,Moderate,13,19,48,108,https://claude.ai/artifact/Fiy5MLT3eSoNnXZ5Rpfey7
+recent,Harsh,34,44,200,326,https://claude.ai/artifact/Fiy5MLT3eSoNnXZ5Rpfey7
+seed,Very mild,14,39,97,693,https://claude.ai/artifact/Fiy5MLT3eSoNnXZ5Rpfey7
+seed,Mild,7,11,39,116,https://claude.ai/artifact/Fiy5MLT3eSoNnXZ5Rpfey7
+seed,Moderate,13,17,54,114,https://claude.ai/artifact/Fiy5MLT3eSoNnXZ5Rpfey7
+seed,Harsh,26,34,191,305,https://claude.ai/artifact/Fiy5MLT3eSoNnXZ5Rpfey7
+live,Very mild,3,11,41,224,https://claude.ai/artifact/Fiy5MLT3eSoNnXZ5Rpfey7
+live,Mild,1,5,13,42,https://claude.ai/artifact/Fiy5MLT3eSoNnXZ5Rpfey7
+live,Moderate,2,4,12,35,https://claude.ai/artifact/Fiy5MLT3eSoNnXZ5Rpfey7
+live,Harsh,7,10,32,82,https://claude.ai/artifact/Fiy5MLT3eSoNnXZ5Rpfey7

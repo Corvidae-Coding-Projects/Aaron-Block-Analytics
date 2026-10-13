@@ -1,0 +1,171 @@
+{
+  "block_records_total": 1284,
+  "audit_window_blocks": 1271,
+  "bulk_load_blocks": 1087,
+  "other_window_blocks": 184,
+  "bulk_fraction": 0.8552321007081038,
+  "aggregate_checks": {
+    "all": {
+      "trans_blocked": 74,
+      "trans_total": 127,
+      "other_blocked": 490,
+      "other_total": 1551,
+      "trans_rate": 0.5826771653543307,
+      "other_rate": 0.3159252095422308,
+      "risk_ratio": 1.8443515989072794,
+      "crude_odds_ratio": 3.023257604928764,
+      "mh_band_adjusted_or": 2.5871693268773375,
+      "bin_adjusted_logistic_or": 2.6419917069383554,
+      "bin_adjusted_logistic_ci95": [
+        1.7655976323609401,
+        3.953403681334401
+      ]
+    },
+    "recent": {
+      "trans_blocked": 69,
+      "trans_total": 117,
+      "other_blocked": 424,
+      "other_total": 1095,
+      "trans_rate": 0.5897435897435898,
+      "other_rate": 0.3872146118721461,
+      "risk_ratio": 1.5230406386066764,
+      "crude_odds_ratio": 2.2749115566037736,
+      "mh_band_adjusted_or": 2.049053231319292,
+      "bin_adjusted_logistic_or": 2.044470439106953,
+      "bin_adjusted_logistic_ci95": [
+        1.3548514173226198,
+        3.0851053650164664
+      ]
+    },
+    "seed": {
+      "trans_blocked": 60,
+      "trans_total": 101,
+      "other_blocked": 381,
+      "other_total": 1228,
+      "trans_rate": 0.594059405940594,
+      "other_rate": 0.31026058631921827,
+      "risk_ratio": 1.9147111561549852,
+      "crude_odds_ratio": 3.2533128480891107,
+      "mh_band_adjusted_or": 2.8362511485305517,
+      "bin_adjusted_logistic_or": 2.957262200388298,
+      "bin_adjusted_logistic_ci95": [
+        1.8565347855641865,
+        4.710603749440536
+      ]
+    },
+    "live": {
+      "trans_blocked": 13,
+      "trans_total": 30,
+      "other_blocked": 98,
+      "other_total": 383,
+      "trans_rate": 0.43333333333333335,
+      "other_rate": 0.2558746736292428,
+      "risk_ratio": 1.6935374149659865,
+      "crude_odds_ratio": 2.223889555822329,
+      "mh_band_adjusted_or": 1.9074848708722676,
+      "bin_adjusted_logistic_or": 1.8838926261238664,
+      "bin_adjusted_logistic_ci95": [
+        0.8620720767489212,
+        4.116884797090512
+      ]
+    }
+  },
+  "sample_rows": 50,
+  "sample_rows_exactly_recovered": 13,
+  "sample_posts_predating_block": 10,
+  "sample_preblock_unique_authors": 9,
+  "sample_preblock_outside_direct_reply_quote": 8,
+  "context_candidate_posts": 28,
+  "context_candidates_predating_block": 10,
+  "context_candidates_preblock_in_bulk_loads": 6,
+  "search_coverage": [
+    {
+      "label": "recent_full_name",
+      "query": "\"Aaron Rodericks\"",
+      "since": "2026-09-15T00:00:00Z",
+      "until": "2026-10-09T00:00:00Z",
+      "unique_posts": 93,
+      "exhausted": false,
+      "reported_hits": [
+        474
+      ],
+      "error": {
+        "error": "<html><body><h1>403 Forbidden</h1>\nRequest forbidden by administrative rules.\n</body></html>\n\n"
+      }
+    },
+    {
+      "label": "recent_mentions",
+      "query": "Aaron",
+      "since": "2026-09-15T00:00:00Z",
+      "until": "2026-10-09T00:00:00Z",
+      "unique_posts": 13,
+      "exhausted": true,
+      "reported_hits": [
+        18
+      ],
+      "error": null
+    },
+    {
+      "label": "porn_allegation",
+      "query": "\"Aaron\" \"porn\"",
+      "since": "2026-01-01T00:00:00Z",
+      "until": "2026-10-09T00:00:00Z",
+      "unique_posts": 93,
+      "exhausted": false,
+      "reported_hits": [
+        765
+      ],
+      "error": {
+        "error": "<html><body><h1>403 Forbidden</h1>\nRequest forbidden by administrative rules.\n</body></html>\n\n"
+      }
+    },
+    {
+      "label": "sexual_allegation",
+      "query": "\"Aaron\" \"pedophile\"",
+      "since": "2026-01-01T00:00:00Z",
+      "until": "2026-10-09T00:00:00Z",
+      "unique_posts": 91,
+      "exhausted": false,
+      "reported_hits": [
+        808
+      ],
+      "error": {
+        "error": "<html><body><h1>403 Forbidden</h1>\nRequest forbidden by administrative rules.\n</body></html>\n\n"
+      }
+    },
+    {
+      "label": "likes_origin",
+      "query": "Aaron",
+      "since": "2024-12-18T00:00:00Z",
+      "until": "2024-12-23T00:00:00Z",
+      "unique_posts": 95,
+      "exhausted": false,
+      "reported_hits": [
+        7231
+      ],
+      "error": {
+        "error": "<html><body><h1>403 Forbidden</h1>\nRequest forbidden by administrative rules.\n</body></html>\n\n"
+      }
+    },
+    {
+      "label": "bot_creator",
+      "query": "\"Aaron\"",
+      "since": "2024-12-01T00:00:00Z",
+      "until": "2026-10-09T00:00:00Z",
+      "unique_posts": 0,
+      "exhausted": true,
+      "reported_hits": [
+        0
+      ],
+      "error": null
+    }
+  ],
+  "hypothetical_sensitivity": {
+    "label": "Hypothetical model; no identity effect; no estimated campaign prevalence",
+    "blocking_probability_without_omitted_behavior": 0.2,
+    "blocking_probability_with_omitted_behavior": 0.8,
+    "required_trans_marked_behavior_prevalence": 0.637795275590551,
+    "required_other_behavior_prevalence": 0.19320868257038462
+  },
+  "campaign_adjusted_identity_effect": "NOT ESTIMATED: absent original account-level data and incomplete eligible control population"
+}

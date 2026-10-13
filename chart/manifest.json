@@ -1,0 +1,15 @@
+{
+  "source_url": "https://claude.ai/artifact/Fiy5MLT3eSoNnXZ5Rpfey7",
+  "source_frame_url": "https://773bfe46-7a6d-45af-ab91-19b98080eeca.frame.claudeusercontent.com/_f/1791889550-6be2/?__frame_v=manifest.94ea33548242e2e0.json",
+  "capture_method": "Read literal inline script content from the public browser-rendered artifact; JSON parse only, no execution of its JavaScript",
+  "files": {
+    "ATTRIBUTION.txt": "9d41caab0733a6dc47da2ce481ea2b40ca995b6b3a307744ecee24422350fff8",
+    "README.txt": "e672d13347cdc38c634ca8604fc1df754792e6ae86056cf6aec7491ea542d8bc",
+    "anonymous_account_rows.csv": "0f0f2042a93147441099f0e0eb6cfdc29b7fc57761bc7ba87ad398cf0a12904d",
+    "anonymous_account_rows.json": "fe02f343a265ff15ecbc0e020fb7754e84a8555cea723ab4a0bac95870eb6cac",
+    "check_recovered_rows.py": "2fd9c16cc0a3800d6542ebb73b9f35f4c59b4cd9534480722a2d394b9ed7876c",
+    "embedded_chart_data.json": "5374ad86c87e60f298e9354755de79bb2d873414715e48af6073771b2b4b9372",
+    "recovered_data_check.json": "dc58ad445be1767966df8b593706b875cc345a2138276fa330817dd797c82ea1"
+  },
+  "compilation_attribution": "Friendly Society of Corvids"
+}

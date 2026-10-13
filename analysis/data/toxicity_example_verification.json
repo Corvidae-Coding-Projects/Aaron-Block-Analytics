@@ -1,0 +1,38 @@
+{
+  "verification_attribution": "Friendly Society of Corvids",
+  "example_source": "Michael Paulauski (@mike10010100.com), independent non-member",
+  "source_post_url": "https://bsky.app/profile/mike10010100.com/post/3mxru62plmg2z",
+  "model": "unitary/unbiased-toxic-roberta",
+  "revision": "36295dd80b422dc49f40052021430dae76241adc",
+  "torch_version": "2.14.1+cpu",
+  "transformers_version": "5.19.0",
+  "method": "CPU inference in evaluation mode; sigmoid of toxicity logit; tokenization with truncation at 512 tokens",
+  "weights_sha256": "f1cfe8f98a22fff5cf77c150d76ea0328575995aa9b7eb0f566f624842379ba5",
+  "examples": [
+    {
+      "text": "Enjoy the camps Aaron",
+      "mike_reported_rounded_score": 0.00043,
+      "independent_score": 0.00042691276757977903,
+      "below_0_02": true
+    },
+    {
+      "text": "Enjoy the camps I guess",
+      "mike_reported_rounded_score": 0.00045,
+      "independent_score": 0.00045354789472185075,
+      "below_0_02": true
+    },
+    {
+      "text": "She was barely legal, Aaron",
+      "mike_reported_rounded_score": 0.00071,
+      "independent_score": 0.0007116188062354922,
+      "below_0_02": true
+    },
+    {
+      "text": "liked jailbait on his work account",
+      "mike_reported_rounded_score": 0.00191,
+      "independent_score": 0.0006275887135416269,
+      "below_0_02": true
+    }
+  ],
+  "scope": "Reproduces scores for the supplied strings. Does not verify original sample membership, account identity or exact original audit preprocessing."
+}

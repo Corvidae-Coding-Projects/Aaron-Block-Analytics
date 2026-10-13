@@ -1,0 +1,7 @@
+Compilation, analysis and report attribution: Friendly Society of Corvids.
+Prepared 13 October 2026.
+
+This attribution covers the research compilation and original analysis.
+Public post excerpts retain their original authorship. Embedded chart data and
+identity/toxicity classifications originate with the published Autoblock Audit.
+Source URLs, record identifiers, timestamps and source hashes are preserved.

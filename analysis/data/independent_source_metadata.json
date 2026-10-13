@@ -1,0 +1,163 @@
+{
+  "compilation_attribution": "Friendly Society of Corvids",
+  "independent_contributor": {
+    "name": "Michael Paulauski",
+    "handle": "mike10010100.com",
+    "society_member": false
+  },
+  "retrieved_at_utc": "2026-10-13T21:15:45.240818+00:00",
+  "posts": [
+    {
+      "purpose": "september_context_root",
+      "post_uri": "at://did:plc:ksjfbda7262bbqmuoly54lww/app.bsky.feed.post/3mvobdemx6v25",
+      "post_url": "https://bsky.app/profile/aaron.bsky.team/post/3mvobdemx6v25",
+      "cid": "bafyreibb4lhddpqbdkwxdwxo3tqbywh4un54nwbykudqvbrypbmssiyboi",
+      "created_at": "2026-09-16T23:14:02.447Z",
+      "indexed_at": "2026-09-16T23:14:05.692Z",
+      "author_did": "did:plc:ksjfbda7262bbqmuoly54lww",
+      "author_handle": "aaron.bsky.team",
+      "text_sha256": "8b98e6f3344b429a8c8790a056f16b3ee7109cf61df716dd86b6d7c3aa71c659",
+      "attribution": "Primary-source post"
+    },
+    {
+      "purpose": "verified_role_based_harm_example_1",
+      "post_uri": "at://did:plc:2v5itwuwvpjre2rguoqw6kbf/app.bsky.feed.post/3mvonkimffk2n",
+      "post_url": "https://bsky.app/profile/orenshedherskin.bsky.social/post/3mvonkimffk2n",
+      "cid": "bafyreif2wcn6x5swbhly5r4tqsht5qwhkblfih6hspr2qye5yeqfixoicy",
+      "created_at": "2026-09-17T02:52:46.402Z",
+      "indexed_at": "2026-09-17T02:52:44.768Z",
+      "author_did": "did:plc:2v5itwuwvpjre2rguoqw6kbf",
+      "author_handle": "orenshedherskin.bsky.social",
+      "text_sha256": "b81d1d77c0960c0386e35c3e9c99153a7ebcc658160ee8ab26e4ab8ede627f79",
+      "attribution": "Primary-source post"
+    },
+    {
+      "purpose": "verified_role_based_harm_example_2",
+      "post_uri": "at://did:plc:43vnjgtrf7m65vwkt3ciec2g/app.bsky.feed.post/3mvsbfka2ck2f",
+      "post_url": "https://bsky.app/profile/mxsaturn.gay/post/3mvsbfka2ck2f",
+      "cid": "bafyreifrus4zwzdbvbio6wfvq75kzvf2gel4eq5pdstpyn3iqwsqma6i7u",
+      "created_at": "2026-09-18T13:25:54.374Z",
+      "indexed_at": "2026-09-18T13:25:55.462Z",
+      "author_did": "did:plc:43vnjgtrf7m65vwkt3ciec2g",
+      "author_handle": "mxsaturn.gay",
+      "text_sha256": "5b851eb078d8947db38a7a8a2bbe665dd0337701bb39c692c0a514914fa7ca17",
+      "attribution": "Primary-source post"
+    },
+    {
+      "purpose": "independent_thread",
+      "post_uri": "at://did:plc:mmtjkssv6jeneahkgfdxuy7p/app.bsky.feed.post/3mxrorcrzjv23",
+      "post_url": "https://bsky.app/profile/mike10010100.com/post/3mxrorcrzjv23",
+      "cid": "bafyreihwdbqwzvxx6kq4qoahvxdmixjnf3lw6fllaoyy2svvizgiz4i6j4",
+      "created_at": "2026-10-13T18:42:50.858Z",
+      "indexed_at": "2026-10-13T18:42:51.468Z",
+      "author_did": "did:plc:mmtjkssv6jeneahkgfdxuy7p",
+      "author_handle": "mike10010100.com",
+      "text_sha256": "e3c70ba997489759b97832e05be51df95abf1e888de2156d087360a01c8c889f",
+      "attribution": "Independent analyst, not a member of Friendly Society of Corvids"
+    },
+    {
+      "purpose": "window_composition",
+      "post_uri": "at://did:plc:mmtjkssv6jeneahkgfdxuy7p/app.bsky.feed.post/3mxros6jmst2y",
+      "post_url": "https://bsky.app/profile/mike10010100.com/post/3mxros6jmst2y",
+      "cid": "bafyreie5csnugaj6x6qxfrrcabfsbtiuduct7y3knhmtcgqg4vztwowgpa",
+      "created_at": "2026-10-13T18:43:19.899Z",
+      "indexed_at": "2026-10-13T18:43:21.055Z",
+      "author_did": "did:plc:mmtjkssv6jeneahkgfdxuy7p",
+      "author_handle": "mike10010100.com",
+      "text_sha256": "fc038302534b325922d407b75ffa197cfb34e315ffb442da113edd0678947003",
+      "attribution": "Independent analyst, not a member of Friendly Society of Corvids"
+    },
+    {
+      "purpose": "pronoun_only_subgroups",
+      "post_uri": "at://did:plc:mmtjkssv6jeneahkgfdxuy7p/app.bsky.feed.post/3mxros7a7ps2c",
+      "post_url": "https://bsky.app/profile/mike10010100.com/post/3mxros7a7ps2c",
+      "cid": "bafyreih56zpeaunuymhng6vthetednksbntwgryokijelcu3eypc54zaye",
+      "created_at": "2026-10-13T18:43:20.725Z",
+      "indexed_at": "2026-10-13T18:43:21.762Z",
+      "author_did": "did:plc:mmtjkssv6jeneahkgfdxuy7p",
+      "author_handle": "mike10010100.com",
+      "text_sha256": "825b3046b15522b80348e26c68d737a06cdb4c6797a4c69b394af631cb1f17b0",
+      "attribution": "Independent analyst, not a member of Friendly Society of Corvids"
+    },
+    {
+      "purpose": "classifier_score_examples",
+      "post_uri": "at://did:plc:mmtjkssv6jeneahkgfdxuy7p/app.bsky.feed.post/3mxru62plmg2z",
+      "post_url": "https://bsky.app/profile/mike10010100.com/post/3mxru62plmg2z",
+      "cid": "bafyreibg32slj4hrykra5f5pan6nkvld5ycrfxvchffshdr6wpwxxdca34",
+      "created_at": "2026-10-13T20:19:26.472Z",
+      "indexed_at": "2026-10-13T20:19:28.664Z",
+      "author_did": "did:plc:mmtjkssv6jeneahkgfdxuy7p",
+      "author_handle": "mike10010100.com",
+      "text_sha256": "059b563656d397d03ae930667b24080c5f9fe5ba7d759ce29d81defd7427fff2",
+      "attribution": "Independent analyst, not a member of Friendly Society of Corvids"
+    },
+    {
+      "purpose": "corrected_live_counts",
+      "post_uri": "at://did:plc:mmtjkssv6jeneahkgfdxuy7p/app.bsky.feed.post/3mxru63thls26",
+      "post_url": "https://bsky.app/profile/mike10010100.com/post/3mxru63thls26",
+      "cid": "bafyreihikj7mfrgkrykoslkjcvwrhb6625ytox6xzycp2dlskzk3wl5ppu",
+      "created_at": "2026-10-13T20:19:28.482Z",
+      "indexed_at": "2026-10-13T20:19:29.555Z",
+      "author_did": "did:plc:mmtjkssv6jeneahkgfdxuy7p",
+      "author_handle": "mike10010100.com",
+      "text_sha256": "742792d7e59fe4566a27d517d3554381703e8f194ae69eb2f42f3cb4201710dc",
+      "attribution": "Independent analyst, not a member of Friendly Society of Corvids"
+    },
+    {
+      "purpose": "role_based_name_search_blind_spot",
+      "post_uri": "at://did:plc:mmtjkssv6jeneahkgfdxuy7p/app.bsky.feed.post/3mxrulacglp2c",
+      "post_url": "https://bsky.app/profile/mike10010100.com/post/3mxrulacglp2c",
+      "cid": "bafyreie5imvtebqycd45u6mfeysihsbhppe2qiilkutvl5jwzmcnohf224",
+      "created_at": "2026-10-13T20:26:49.415Z",
+      "indexed_at": "2026-10-13T20:26:50.054Z",
+      "author_did": "did:plc:mmtjkssv6jeneahkgfdxuy7p",
+      "author_handle": "mike10010100.com",
+      "text_sha256": "68d22cd3a3063d673a9dbd33b28957d32c21257ef6dd0ed164fc23c00543c8e5",
+      "attribution": "Independent analyst, not a member of Friendly Society of Corvids"
+    },
+    {
+      "purpose": "additional_no_contact_claims",
+      "post_uri": "at://did:plc:mmtjkssv6jeneahkgfdxuy7p/app.bsky.feed.post/3mxrulh64wa2z",
+      "post_url": "https://bsky.app/profile/mike10010100.com/post/3mxrulh64wa2z",
+      "cid": "bafyreigzraflnqf26m4q6hyilwfy4g3ilg5lwhxp7abkiopbsuhljrospu",
+      "created_at": "2026-10-13T20:26:56.815Z",
+      "indexed_at": "2026-10-13T20:26:57.254Z",
+      "author_did": "did:plc:mmtjkssv6jeneahkgfdxuy7p",
+      "author_handle": "mike10010100.com",
+      "text_sha256": "147a350c4b4cb73dc91b2edecf24ba454051a1860720c83e2437d161060403cb",
+      "attribution": "Independent analyst, not a member of Friendly Society of Corvids"
+    },
+    {
+      "purpose": "audit_author_corrected_opener",
+      "post_uri": "at://did:plc:ou4uojvs5kkkr6ma2bnleouw/app.bsky.feed.post/3mxrulsvkqk2u",
+      "post_url": "https://bsky.app/profile/aidap.bsky.social/post/3mxrulsvkqk2u",
+      "cid": "bafyreie6yihug7hloafutpcehskiq3qvc7vkj7u2ixzv2mhxnt427v4dky",
+      "created_at": "2026-10-13T20:27:09.401Z",
+      "indexed_at": "2026-10-13T20:27:10.157Z",
+      "author_did": "did:plc:ou4uojvs5kkkr6ma2bnleouw",
+      "author_handle": "aidap.bsky.social",
+      "text_sha256": "c674799535fe53b194dc7b9f4b9af8269ffcad09925ac30c480ad4caae366364",
+      "attribution": "Primary-source post"
+    },
+    {
+      "purpose": "audit_author_generic_score_limit",
+      "post_uri": "at://did:plc:ou4uojvs5kkkr6ma2bnleouw/app.bsky.feed.post/3mxrulsvkql2u",
+      "post_url": "https://bsky.app/profile/aidap.bsky.social/post/3mxrulsvkql2u",
+      "cid": "bafyreifvw3hkzrkfumcngmouz73knurfy2edplavnmwclblbhmfuzx3pdu",
+      "created_at": "2026-10-13T20:27:09.402Z",
+      "indexed_at": "2026-10-13T20:27:10.158Z",
+      "author_did": "did:plc:ou4uojvs5kkkr6ma2bnleouw",
+      "author_handle": "aidap.bsky.social",
+      "text_sha256": "7992decb766d0f031f022387cb4884953ffe1eb36f55295779f42fde51ef4665",
+      "attribution": "Primary-source post"
+    }
+  ],
+  "raw_response_sha256": {
+    "thread_response.json": "bbdd9fadb07ffcf40e7a9f8d109a4a9dc544256aa4564c1eb377de87ec9dddbf",
+    "no_contact_claim.json": "620fb6ea0163d354292b4b8aa204aa456fe49e6a9759959e0e26e056805b0543",
+    "audit_author_update.json": "a6b6443b391ce318647122038b786e451e52724fd8035cb45dcf5ffc968a8ee2",
+    "role_and_camps_sources.json": "8e72e2fa2104a5a9513ed6d3c92e2ae763bd4e6a868d798c454b133fedc8df4e",
+    "sept_thread.json": "ca77e815120fc418082e3665e55a45342a210c24cde13573d9135939d4617bff"
+  },
+  "note": "Source metadata and text hashes retained. Original prose is linked, not republished as a thread transcript."
+}
